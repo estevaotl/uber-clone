@@ -1,6 +1,6 @@
 # Descrição do Projeto
 - Esse projeto foi feito visando o aprofundamento no estudo do front-end.
-- Para isso foi escolhido a clonagem do aplicativo Uber, muito utilizado atualmente para transporte, no qual utilizei o video (https://www.youtube.com/watch?v=zXpr8zaK2eA&list=WL&index=3&t=2099s) como referência.
+- Para isso foi escolhido a clonagem do aplicativo Uber, muito utilizado atualmente para transporte, no qual utilizei o [video](https://www.youtube.com/watch?v=zXpr8zaK2eA&list=WL&index=3&t=2099s) como referência.
 - Além disso, foi realizado a criação do aplicativo via PWA.
 
 ## Tecnologias Utilizadas
